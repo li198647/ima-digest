@@ -1,0 +1,9 @@
+# 采集过程的中间草稿（子代理分批产物，最终结果在 details_sec*.json）
+_batch*.json
+_fix.json
+_mapping_sec2.json
+
+# Python
+__pycache__/
+*.pyc
+_commit_msg.txt
